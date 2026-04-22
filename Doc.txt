@@ -1,0 +1,365 @@
+What is an L1 Support Engineer?
+
+An L1 Support Engineer (Level-1 Support) is the first point of contact for users facing IT issues.
+Main job: Receive tickets → Identify issue → Fix basic problems → Escalate complex issues to L2
+
+Example issues handled:
+
+Password reset
+Outlook not opening
+Printer not working
+Internet issue
+Software installation
+System slow
+Step-by-Step Topics with Practical Learning Guide
+1️⃣ Basic Networking (Must for L1 Support)
+What you should know
+
+Core concepts:
+
+IP Address
+DNS
+DHCP
+LAN / WAN
+Default Gateway
+Ping command
+ipconfig command
+Practical Practice (Do this on your system)
+
+Open Command Prompt and try:
+
+ipconfig
+
+Shows your system IP address
+
+ping google.com
+
+Checks internet connectivity
+
+ipconfig /all
+
+Shows full network details
+
+Real Office Example
+
+User says:
+
+Internet not working
+
+You check:
+
+Step 1 → Check cable connected
+Step 2 → Run ping command
+Step 3 → Restart network adapter
+Step 4 → Restart system
+Step 5 → Escalate if still issue
+
+2️⃣ Windows OS Basic (Very Important)
+
+You must know:
+
+Control Panel
+Device Manager
+Task Manager
+Services
+System Information
+User account management
+Practical Practice
+
+Open:
+
+taskmgr
+
+Check CPU / RAM usage
+
+Open:
+
+services.msc
+
+Restart service if stopped
+
+Example:
+
+Restart Print Spooler Service if printer not working
+
+Real Office Example
+
+User says:
+
+My system is slow
+
+You check:
+
+Task Manager → High CPU usage
+Uninstall unnecessary apps
+Restart system
+
+3️⃣ Linux Basic (Only Basic Commands Required)
+
+Common commands:
+
+pwd
+ls
+cd
+mkdir
+rm
+cat
+top
+Practical Practice
+
+Install:
+
+Ubuntu Virtual Machine (using VirtualBox)
+
+Then try:
+
+ls
+
+Shows files
+
+pwd
+
+Shows current folder
+
+top
+
+Shows running processes
+
+Real Office Example
+
+Check disk usage:
+
+df -h
+
+Check memory usage:
+
+free -m
+4️⃣ Microsoft 365 (Very Important in Companies)
+
+You must know:
+
+Outlook issues
+Teams login issue
+Password reset
+License assign/remove
+Practical Practice (Learn Online Free)
+
+Go to:
+
+Microsoft 365 Admin Center demo
+
+Learn:
+
+User creation
+Password reset
+Assign license
+
+Real Office Example
+
+User says:
+
+Outlook not syncing
+
+You check:
+
+Internet working?
+Mailbox full?
+Restart Outlook
+Reconfigure Outlook profile
+
+5️⃣ Active Directory (Most Asked in Interviews)
+
+Used for:
+
+Managing company users
+
+You should know:
+
+Create user
+Reset password
+Unlock account
+Add user to group
+Practical Practice (Virtual Machine Recommended)
+
+Install:
+
+Windows Server (trial version)
+
+Open:
+
+Active Directory Users and Computers
+
+Try:
+
+Create new user
+Reset password
+Disable account
+
+Real Office Example
+
+User says:
+
+Unable to login system
+
+You check:
+
+Account locked?
+Password expired?
+
+Reset password in AD
+
+Issue solved
+
+6️⃣ Ticketing Tools (ServiceNow / Jira / Freshservice)
+
+Used to manage user complaints
+
+Process:
+
+User raises ticket
+L1 engineer receives ticket
+Engineer solves issue
+Close ticket OR escalate
+
+Practical Practice
+
+Search on YouTube:
+
+ServiceNow ticket workflow demo
+
+Learn:
+
+Create ticket
+Update status
+Close ticket
+Add notes
+
+Real Office Example Workflow
+
+Ticket received:
+
+Printer not working
+
+You:
+
+Open ticket
+Call user
+Check issue
+Solve issue
+Update ticket status
+Close ticket
+
+7️⃣ Troubleshooting Process (Most Important Skill)
+
+Interviewers check this strongly
+
+Follow this method always:
+
+Step 1
+
+Understand issue
+
+Ask user:
+
+What problem?
+When started?
+Error message?
+
+Step 2
+
+Check basic things
+
+Internet
+Restart system
+Cable connection
+
+Step 3
+
+Apply solution
+
+Reset password
+Restart service
+Reinstall software
+
+Step 4
+
+Test solution
+
+Ask user:
+
+Working now?
+
+Step 5
+
+Close ticket
+
+Add resolution notes
+
+Real Example (Complete L1 Scenario)
+
+User issue:
+
+Outlook not opening
+
+Your steps:
+
+Step 1 → Restart Outlook
+Step 2 → Restart system
+Step 3 → Check internet
+Step 4 → Recreate profile
+Step 5 → Escalate if still issue
+
+How to Practice at Home (Best Plan for Freshers)
+
+Follow this setup:
+
+Install:
+
+VirtualBox
+
+Inside VirtualBox install:
+
+Windows Server
+Ubuntu Linux
+
+Practice daily:
+
+Create users
+Reset passwords
+Ping commands
+Service restart
+Software install/uninstall
+
+Interview Tip (Very Important)
+
+If interviewer asks:
+
+What does L1 Support Engineer do?
+
+Answer:
+
+L1 Support Engineer is the first level of technical support responsible for handling basic IT issues like password reset, Outlook issues, software installation, printer problems, network connectivity troubleshooting, Active Directory user management, and ticket handling using tools like ServiceNow.
+
+
+🧑‍💻 How to Practice Basic Networking at Home (Step-by-Step)
+1️⃣ Practice IP Address (Check your system IP)
+Steps:
+Press Windows + R
+Type cmd
+Run command:
+ipconfig
+
+You will see:
+
+IPv4 Address → Example: 192.168.1.5
+Subnet Mask → Example: 255.255.255.0
+Default Gateway → Example: 192.168.1.1
+
+📘 What this means:
+
+IPv4 = Your device address in network
+Subnet Mask = Network size
+Gateway = Router address
+
+👉 L1 Support task:
+Check user's IP when internet not working
