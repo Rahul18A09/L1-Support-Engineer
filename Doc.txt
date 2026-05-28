@@ -363,3 +363,19 @@ Gateway = Router address
 
 👉 L1 Support task:
 Check user's IP when internet not working
+
+
+✈Best Workflow for a Frontend Developer (Your case)
+
+Since you use Next.js + Tailwind, try this workflow:
+
+Step 1: Prompt Figma AI
+
+Create a modern airline booking homepage like SkyAccess.
+Use blue gradient theme, glassmorphism cards, responsive layout.
+
+Step 2: Refine manually.
+
+Step 3: Export design specs.
+
+Step 4: Build in Next.js + Tailwind.
