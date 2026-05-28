@@ -379,3 +379,10 @@ Step 2: Refine manually.
 Step 3: Export design specs.
 
 Step 4: Build in Next.js + Tailwind.
+
+⚡Login Page
+Design a clean login page with email, password, social login buttons, modern SaaS style.
+⚡Dashboard
+Create an admin dashboard with sidebar, analytics cards, charts, responsive layout.
+⚡Landing Page
+Create a startup landing page with hero, features, pricing, FAQ, CTA.
