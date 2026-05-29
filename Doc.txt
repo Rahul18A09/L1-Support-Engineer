@@ -410,3 +410,15 @@ User login/authentication
 SSL + Domain
 
 AWS aa badhu provide kare che.
+
+| Service        | Use                     |
+| -------------- | ----------------------- |
+| **EC2**        | Virtual Server          |
+| **S3**         | File Storage            |
+| **RDS**        | Database                |
+| **Lambda**     | Run code without server |
+| **IAM**        | User permissions        |
+| **CloudFront** | CDN / Fast delivery     |
+| **Route 53**   | Domain management       |
+| **Amplify**    | Frontend hosting        |
+
