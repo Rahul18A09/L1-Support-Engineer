@@ -395,3 +395,18 @@ AWS ek cloud platform che je tamne server, database, storage, authentication, de
 
 Normal rite tame website/app chalava mate physical computer/server kharido.
 AWS ma tamne online virtual server mali jay che.
+
+1. AWS Shu che? (Real Example)
+
+Suppose tame flight booking website banavo cho.
+
+Tamne aa badhu joiye:
+
+Frontend host karvu (Next.js)
+Backend API run karvi (Python/Node)
+Database store karvi
+Images/files store karva
+User login/authentication
+SSL + Domain
+
+AWS aa badhu provide kare che.
