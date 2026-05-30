@@ -422,3 +422,15 @@ AWS aa badhu provide kare che.
 | **Route 53**   | Domain management       |
 | **Amplify**    | Frontend hosting        |
 
+
+
+
+Step-by-Step AWS Use Karvu (Beginner Friendly)
+Step 1 — AWS Account Create Karo
+Go to AWS website:
+https://aws.amazon.com⁠�
+Sign Up
+Email enter karo
+Password set karo
+Card verify karvi padse.
+AWS Free Tier pan aape che.
