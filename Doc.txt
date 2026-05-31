@@ -457,3 +457,23 @@ Plain text
 POST /auth/signup
 POST /auth/login
 GET /users/profile
+
+
+2. Login API Example
+Swagger માં આવું દેખાઈ શકે:
+POST /auth/login
+Request Body:
+JSON
+{
+  "email": "user@gmail.com",
+  "password": "123456"
+}
+Response:
+JSON
+{
+  "success": true,
+  "token": "abc123xyz"
+}
+એનો અર્થ:
+Frontend માં તમારે email + password મોકલવાનું.
+જો login success થાય → backend તમને token આપશે.
