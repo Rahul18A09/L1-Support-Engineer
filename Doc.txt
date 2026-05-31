@@ -446,3 +446,14 @@ API URL શું છે
 Request માં શું મોકલવું
 Response માં શું મળશે
 API test કેવી રીતે કરવી
+
+1. Real Example
+માનો backend developer એ તમને Swagger link આપી:
+Plain text
+https://api.example.com/swagger
+તમે open કરો તો તમને API list દેખાશે.
+Example:
+Plain text
+POST /auth/signup
+POST /auth/login
+GET /users/profile
