@@ -434,3 +434,15 @@ Email enter karo
 Password set karo
 Card verify karvi padse.
 AWS Free Tier pan aape che.
+
+Swagger 
+
+Swagger એ API ને samajva, test karva ane document karva માટેનું tool છે.
+Simple language માં:
+જો Backend Developer API બનાવે છે, તો Swagger તમને બતાવે છે:
+API URL શું છે
+કઈ API available છે (/login, /signup, /users…)
+કયો HTTP method use કરવો (GET, POST, PUT, DELETE)
+Request માં શું મોકલવું
+Response માં શું મળશે
+API test કેવી રીતે કરવી
