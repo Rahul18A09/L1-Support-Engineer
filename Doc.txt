@@ -464,6 +464,7 @@ Swagger માં આવું દેખાઈ શકે:
 POST /auth/login
 Request Body:
 JSON
+
 {
   "email": "user@gmail.com",
   "password": "123456"
@@ -473,7 +474,7 @@ JSON
 {
   "success": true,
   "token": "abc123xyz"
-}
+
 એનો અર્થ:
 Frontend માં તમારે email + password મોકલવાનું.
 જો login success થાય → backend તમને token આપશે.
