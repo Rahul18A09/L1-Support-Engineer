@@ -480,3 +480,11 @@ JSON
 એનો અર્થ:
 Frontend માં તમારે email + password મોકલવાનું.
 જો login success થાય → backend તમને token આપશે.
+
+Method 1 — Give Swagger URL to Cursor (Recommended)
+If your backend provides:
+Swagger UI URL → https://api.example.com/swagger/ OR
+OpenAPI JSON file → https://api.example.com/openapi.json
+Then Cursor can generate integration code much faster.
+Example prompt for Cursor:
+
