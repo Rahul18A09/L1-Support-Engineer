@@ -488,3 +488,25 @@ OpenAPI JSON file → https://api.example.com/openapi.json
 Then Cursor can generate integration code much faster.
 Example prompt for Cursor:
 
+Use this Swagger/OpenAPI documentation:
+https://your-api.com/openapi.json
+
+My frontend stack:
+- Next.js
+- TypeScript
+- Tailwind
+- Axios
+
+Create complete API integration setup.
+
+Requirements:
+1. Create api folder structure.
+2. Create Axios instance.
+3. Generate all API service files from Swagger endpoints.
+4. Add auth token handling.
+5. Add refresh token logic.
+6. Add TypeScript interfaces/types.
+7. Use environment variables for base URL.
+8. Organize APIs by module (auth, flights, booking, user, etc.).
+9. Keep code clean and production-ready.
+
