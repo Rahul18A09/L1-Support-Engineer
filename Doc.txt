@@ -518,3 +518,22 @@ Press F12
 Network tab select karo
 Page refresh karo (Ctrl + R)
 
+2. Filter Tabs No Use
+Top ma aa filters dekhase:
+Filter
+Use
+All
+Badhi requests
+Fetch/XHR
+APIs jovva mate sauthi important
+JS
+JavaScript files
+CSS
+Stylesheets
+Img
+Images
+Font
+Fonts
+Doc
+HTML page
+
