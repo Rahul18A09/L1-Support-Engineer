@@ -537,3 +537,13 @@ Fonts
 Doc
 HTML page
 
+Frontend Developer Mate
+Mota bhage:
+Fetch/XHR filter j use karvano.
+Aa filter ma tamne:
+Login API
+Signup API
+User Profile API
+Flight Search API
+badhu dekhase.
+
