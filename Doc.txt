@@ -510,3 +510,11 @@ Requirements:
 8. Organize APIs by module (auth, flights, booking, user, etc.).
 9. Keep code clean and production-ready.
 
+1. Network Tab Shu Che?
+Jyare tamari application backend ne request mokle che (Login, Signup, Flights, User Profile, etc.), tyare Network tab ma badhi requests ane responses dekhay che.
+Open karva mate:
+Website open karo
+Press F12
+Network tab select karo
+Page refresh karo (Ctrl + R)
+
