@@ -1,0 +1,5 @@
+Domain name એટલે તમારી website નું internet પરનું address.
+ઉદાહરણ:
+google.com → Google નો domain
+amazon.in → Amazon નો domain
+aviation.com → તમારી flight booking website નો domain
