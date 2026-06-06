@@ -8,3 +8,10 @@ aviation.com → તમારી flight booking website નો domain
 Website = તમારું ઘર
 Hosting Server = જમીન જ્યાં ઘર બનાવ્યું છે
 Domain = ઘરના address જે લોકો search કરે છે
+
+Domain કેવી રીતે ખરીદવો?
+તમે domain registrar પાસેથી ખરીદી શકો છો:
+godaddy.com⁠�
+namecheap.com⁠�
+hostinger.com⁠�
+domains.squarespace.com⁠�
