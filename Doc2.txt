@@ -21,3 +21,9 @@ Example:-
 -aviation.in
 -aviationbooking.com
 -flyaviation.com
+
+Step 1: Domain ખરીદો
+aviationbooking.com
+
+Step 2: Website Deploy કરો
+aviation-fe.vercel.app
