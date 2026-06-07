@@ -27,3 +27,12 @@ aviationbooking.com
 
 Step 2: Website Deploy કરો
 aviation-fe.vercel.app
+
+Step 3: Domain Add કરો
+Vercel માં:
+Project Open કરો
+Settings
+Domains
+Add Domain
+Enter:
+aviationbooking.com
