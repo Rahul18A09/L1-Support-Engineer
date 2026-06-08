@@ -36,3 +36,8 @@ Domains
 Add Domain
 Enter:
 aviationbooking.com
+
+Step 4: DNS Records Configure કરો
+Domain provider (GoDaddy/Namecheap) માં જાઓ.
+DNS Management માં:
+A Record
