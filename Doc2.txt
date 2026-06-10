@@ -51,3 +51,12 @@ CNAME Record
 Type: CNAME
 Host: www
 Value: cname.vercel-dns.com
+
+Week 1
+
+✅ Express.js Basics
+
+Routes
+Request
+Response
+Middleware
