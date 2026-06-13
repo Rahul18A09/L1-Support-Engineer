@@ -71,3 +71,14 @@ Middleware
 
 🛸CI/CD Pipeline
 CI/CD Pipeline is a process that helps developers automatically build, test, and deploy code whenever changes are made.
+
+What does CI/CD mean?
+1. CI (Continuous Integration)
+
+When developers push code to GitHub, the system automatically:
+
+Downloads the latest code
+Installs dependencies
+Runs tests
+Checks for errors
+Builds the project
