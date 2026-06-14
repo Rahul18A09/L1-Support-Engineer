@@ -84,3 +84,8 @@ Checks for errors
 Builds the project
 
 2. CD (Continuous Delivery / Continuous Deployment)
+
+After CI succeeds:
+The application is deployed automatically
+Server gets the latest code
+Website is updated without manual work
