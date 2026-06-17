@@ -81,7 +81,9 @@ Downloads the latest code
 Installs dependencies
 Runs tests
 Checks for errors
-Builds the project
+Builds the projects
+
+
 
 2. CD (Continuous Delivery / Continuous Deployment)
 
