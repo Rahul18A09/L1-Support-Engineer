@@ -84,8 +84,6 @@ Runs tests
 Checks for errors
 Builds the projects
 
-
-
 2. CD (Continuous Delivery / Continuous Deployment)
 
 After CI succeeds:
