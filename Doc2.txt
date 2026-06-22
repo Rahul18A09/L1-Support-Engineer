@@ -89,3 +89,5 @@ After CI succeeds:
 The application is deployed automatically
 Server gets the latest code
 Website is updated without manual work
+
+
