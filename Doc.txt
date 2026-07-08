@@ -1,4 +1,3 @@
-
 What is an L1 Support Engineer?
 
 An L1 Support Engineer (Level-1 Support) is the first point of contact for users facing IT issues.
