@@ -94,6 +94,7 @@ Task Manager → High CPU usage
 Uninstall unnecessary apps
 Restart system
 
+
 3️⃣ Linux Basic (Only Basic Commands Required)
 
 Common commands:
