@@ -46,7 +46,6 @@ User says:
 
 Internet not working
 
-
 You check:
 Step 1 → Check cable connected
 Step 2 → Run ping command
