@@ -28,23 +28,14 @@ ipconfig command
 Practical Practice (Do this on your system)
 
 Open Command Prompt and try:
-
 ipconfig
-
 Shows your system IP address
-
 ping google.com
-
 Checks internet connectivity
-
 ipconfig /all
-
-Shows full network details
-
+hows full network details
 Real Office Example
-
 User says:
-
 Internet not working
 
 You check:
