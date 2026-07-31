@@ -4,6 +4,7 @@ google.com → Google નો domain
 amazon.in → Amazon નો domain
 aviation.com → તમારી flight booking website નો domain
 
+
 સરળ ભાષામાં:
 Website = તમારું ઘર
 Hosting Server = જમીન જ્યાં ઘર બનાવ્યું છે
