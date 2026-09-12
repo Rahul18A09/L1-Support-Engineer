@@ -1,4 +1,5 @@
 
+
 Domain name એટલે તમારી website નું internet પરનું address.
 ઉદાહરણ:
 google.com → Google નો domain
